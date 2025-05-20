@@ -13,7 +13,7 @@ import { useRouter } from "next/navigation"
 export default function PropertyListingCard({
   id = "meta-123",
   name = "Crystal Oasis Villa",
-  image = "/placeholder.svg?height=400&width=600",
+  image = "https://images.pexels.com/photos/15461302/pexels-photo-15461302/free-photo-of-palm-tree-neara-house-garage-door.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
   location = "Decentraland, Genesis Plaza",
   price = 1.25,
   currency = "ETH",

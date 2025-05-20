@@ -5,7 +5,7 @@ export const properties = [
     {
       id: "meta-123",
       name: "Crystal Oasis Villa",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://images.pexels.com/photos/15461302/pexels-photo-15461302/free-photo-of-palm-tree-neara-house-garage-door.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       location: "Decentraland, Genesis Plaza",
       price: 1.25,
       currency: "ETH",
@@ -27,7 +27,7 @@ export const properties = [
     {
       id: "meta-456",
       name: "Neon District Penthouse",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://get.pxhere.com/photo/beach-house-beach-house-garden-backyard-swimming-pool-resort-property-building-real-estate-vacation-eco-hotel-leisure-villa-estate-home-palm-tree-tree-hotel-architecture-resort-town-hacienda-landscape-arecales-seaside-resort-cottage-tropics-1593845.jpg",
       location: "The Sandbox, Alpha District",
       price: 2.75,
       currency: "ETH",
@@ -49,7 +49,7 @@ export const properties = [
     {
       id: "meta-789",
       name: "Quantum Gardens Estate",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://content.mediastg.net/dyna_images/mls/10313/584472.jpgx?h=540&d=2024-12-13T01:04:08.4630000",
       location: "Somnium Space, Central Hub",
       price: 0.85,
       currency: "ETH",
@@ -72,7 +72,7 @@ export const properties = [
     {
       id: "meta-101",
       name: "Digital Horizon Mansion",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://www.palmspringslife.com/wp-content/uploads/data-import/10/10745e2e7859564ee1334479ca4bc458-articleLead-PSLITHouse-2730-Edit-cc.jpg",
       location: "Cryptovoxels, Origin City",
       price: 3.5,
       currency: "ETH",
@@ -94,7 +94,7 @@ export const properties = [
     {
       id: "meta-202",
       name: "Cyber Loft",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://get.pxhere.com/photo/villa-mansion-house-home-pool-swimming-pool-cottage-backyard-property-garden-resort-estate-yard-manor-house-real-estate-dream-home-988252.jpg",
       location: "Decentraland, Fashion District",
       price: 0.65,
       currency: "ETH",
@@ -116,7 +116,7 @@ export const properties = [
     {
       id: "meta-303",
       name: "Ethereal Heights Tower",
-      image: "/placeholder.svg?height=400&width=600",
+      image: "https://pics.craiyon.com/2023-09-24/2e14c508823b4e29a5a1e1bb91f22d6e.webp",
       location: "The Sandbox, Downtown",
       price: 4.2,
       currency: "ETH",

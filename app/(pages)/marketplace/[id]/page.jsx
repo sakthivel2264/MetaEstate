@@ -36,7 +36,7 @@ const getPropertyData = (id) => {
       id: "meta-123",
       name: "Crystal Oasis Villa",
       images: [
-        "/placeholder.svg?height=600&width=800",
+        "https://images.pexels.com/photos/15461302/pexels-photo-15461302/free-photo-of-palm-tree-neara-house-garage-door.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
         "/placeholder.svg?height=600&width=800",
         "/placeholder.svg?height=600&width=800",
       ],
@@ -90,7 +90,7 @@ const getPropertyData = (id) => {
       id: "meta-456",
       name: "Neon District Penthouse",
       images: [
-        "/placeholder.svg?height=600&width=800",
+        "https://get.pxhere.com/photo/beach-house-beach-house-garden-backyard-swimming-pool-resort-property-building-real-estate-vacation-eco-hotel-leisure-villa-estate-home-palm-tree-tree-hotel-architecture-resort-town-hacienda-landscape-arecales-seaside-resort-cottage-tropics-1593845.jpg",
         "/placeholder.svg?height=600&width=800",
         "/placeholder.svg?height=600&width=800",
       ],
@@ -147,7 +147,7 @@ const getPropertyData = (id) => {
       id: "meta-789",
       name: "Quantum Gardens Estate",
       images: [
-        "/placeholder.svg?height=600&width=800",
+        "https://content.mediastg.net/dyna_images/mls/10313/584472.jpgx?h=540&d=2024-12-13T01:04:08.4630000",
         "/placeholder.svg?height=600&width=800",
         "/placeholder.svg?height=600&width=800",
       ],
@@ -192,7 +192,7 @@ const getPropertyData = (id) => {
       id: "meta-101",
       name: "Digital Horizon Mansion",
       images: [
-        "/placeholder.svg?height=600&width=800",
+        "https://www.palmspringslife.com/wp-content/uploads/data-import/10/10745e2e7859564ee1334479ca4bc458-articleLead-PSLITHouse-2730-Edit-cc.jpg",
         "/placeholder.svg?height=600&width=800",
         "/placeholder.svg?height=600&width=800",
       ],
@@ -260,7 +260,7 @@ const getPropertyData = (id) => {
       id: "meta-202",
       name: "Cyber Loft Apartment",
       images: [
-        "/placeholder.svg?height=600&width=800",
+        "https://get.pxhere.com/photo/villa-mansion-house-home-pool-swimming-pool-cottage-backyard-property-garden-resort-estate-yard-manor-house-real-estate-dream-home-988252.jpg",
         "/placeholder.svg?height=600&width=800",
         "/placeholder.svg?height=600&width=800",
       ],
@@ -302,7 +302,7 @@ const getPropertyData = (id) => {
       id: "meta-303",
       name: "Ethereal Heights Tower",
       images: [
-        "/placeholder.svg?height=600&width=800",
+        "https://pics.craiyon.com/2023-09-24/2e14c508823b4e29a5a1e1bb91f22d6e.webp",
         "/placeholder.svg?height=600&width=800",
         "/placeholder.svg?height=600&width=800",
       ],
