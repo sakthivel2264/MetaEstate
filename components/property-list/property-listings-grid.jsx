@@ -1,5 +1,6 @@
+import { Button } from "@/components/ui/button"
 import PropertyListingCard from "./property-list-card"
-
+import Link from "next/link"
 
 export const properties = [
     {
@@ -142,7 +143,9 @@ export default function PropertyListingsGrid() {
   return (
     <div className="container mx-auto px-4 py-8 mt-16">
       <div className="mb-8">
-        <h1 className="text-3xl font-bold mb-2">Metaverse Property Listings</h1>
+        <div className="flex items-center justify-between mb-4">
+          <h1 className="text-3xl font-bold mb-2">Metaverse Property Listings</h1><Link href ="https://houses-neotix.vercel.app/"><Button className="bg-purple-50 text-purple-700 hover:bg-purple-100 border-2 border-purple-300 cursor-pointer">Premium Customers</Button></Link>
+        </div>
         <p className="text-muted-foreground">Discover and invest in premium virtual real estate across the metaverse</p>
       </div>
 
